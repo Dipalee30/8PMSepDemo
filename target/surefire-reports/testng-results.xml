@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenProject" duration-ms="9139" started-at="2020-09-03T00:58:34Z" finished-at="2020-09-03T00:58:44Z">
+    <groups>
+    </groups>
+    <test name="Selenium Scripts" duration-ms="9139" started-at="2020-09-03T00:58:34Z" finished-at="2020-09-03T00:58:44Z">
+      <class name="com.TestNGScripts.WikiTestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestNGScripts.WikiTestCase@23a5fd2]" name="setup" is-config="true" duration-ms="4646" started-at="2020-09-03T00:58:34Z" finished-at="2020-09-03T00:58:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.TestNGScripts.WikiTestCase@23a5fd2]" name="login" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:39Z" finished-at="2020-09-03T00:58:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createAccount()[pri:49, instance:com.TestNGScripts.WikiTestCase@23a5fd2]" name="createAccount" duration-ms="3431" started-at="2020-09-03T00:58:39Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.TestNGScripts.WikiTestCase@23a5fd2]" name="logout" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.TestNGScripts.WikiTestCase@23a5fd2]" name="login" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="MainPage()[pri:50, instance:com.TestNGScripts.WikiTestCase@23a5fd2]" name="MainPage" duration-ms="942" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainPage -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.TestNGScripts.WikiTestCase@23a5fd2]" name="closebrowser" is-config="true" duration-ms="78" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.TestNGScripts.WikiTestCase@23a5fd2]" name="logout" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.TestNGScripts.WikiTestCase -->
+      <class name="com.TestNGScripts.AnnotationsTestNG">
+        <test-method status="PASS" signature="suiteTest()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="suiteTest" is-config="true" duration-ms="26" started-at="2020-09-03T00:58:34Z" finished-at="2020-09-03T00:58:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method status="PASS" signature="exampletest()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="exampletest" is-config="true" duration-ms="1" started-at="2020-09-03T00:58:34Z" finished-at="2020-09-03T00:58:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampletest -->
+        <test-method status="PASS" signature="Timeouts()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="Timeouts" is-config="true" duration-ms="1" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Timeouts -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="login" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="cookiesdel()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="cookiesdel" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesdel -->
+        <test-method status="PASS" signature="createCust()[pri:49, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="createCust" duration-ms="0" started-at="2020-09-03T00:58:43Z" finished-at="2020-09-03T00:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCust -->
+        <test-method status="PASS" signature="Timeouts()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="Timeouts" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Timeouts -->
+        <test-method status="PASS" signature="searchCust()[pri:50, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="searchCust" duration-ms="1" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCust -->
+        <test-method status="PASS" signature="cookiesdel()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="cookiesdel" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesdel -->
+        <test-method status="PASS" signature="Timeouts()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="Timeouts" is-config="true" duration-ms="1" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Timeouts -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="logout" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="deleteCust()[pri:51, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="deleteCust" duration-ms="0" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCust -->
+        <test-method status="PASS" signature="cookiesdel()[pri:0, instance:com.TestNGScripts.AnnotationsTestNG@62bd765]" name="cookiesdel" is-config="true" duration-ms="0" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesdel -->
+      </class> <!-- com.TestNGScripts.AnnotationsTestNG -->
+    </test> <!-- Selenium Scripts -->
+  </suite> <!-- MavenProject -->
+  <suite name="MavenProject (0)" duration-ms="21745" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:59:05Z">
+    <groups>
+    </groups>
+    <test name="Sanity Testing" duration-ms="10538" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:54Z">
+      <class name="com.TestNGScripts.ParametrizationwithXML">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestNGScripts.ParametrizationwithXML@6b53e23f]" name="setup" is-config="true" duration-ms="4053" started-at="2020-09-03T00:58:44Z" finished-at="2020-09-03T00:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String)[pri:0, instance:com.TestNGScripts.ParametrizationwithXML@6b53e23f]" name="createAccount" duration-ms="6367" started-at="2020-09-03T00:58:48Z" finished-at="2020-09-03T00:58:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestNGScripts.ParametrizationwithXML@6b53e23f]" name="closeBrowser" is-config="true" duration-ms="114" started-at="2020-09-03T00:58:54Z" finished-at="2020-09-03T00:58:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.TestNGScripts.ParametrizationwithXML -->
+    </test> <!-- Sanity Testing -->
+    <test name="RegressionTesting" duration-ms="11201" started-at="2020-09-03T00:58:54Z" finished-at="2020-09-03T00:59:05Z">
+      <class name="com.TestNGScripts.ParametrizationwithXML">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestNGScripts.ParametrizationwithXML@971d0d8]" name="setup" is-config="true" duration-ms="4416" started-at="2020-09-03T00:58:54Z" finished-at="2020-09-03T00:58:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String)[pri:0, instance:com.TestNGScripts.ParametrizationwithXML@971d0d8]" name="createAccount" duration-ms="6334" started-at="2020-09-03T00:58:59Z" finished-at="2020-09-03T00:59:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[emp1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[emp1@0409]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestNGScripts.ParametrizationwithXML@971d0d8]" name="closeBrowser" is-config="true" duration-ms="448" started-at="2020-09-03T00:59:05Z" finished-at="2020-09-03T00:59:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.TestNGScripts.ParametrizationwithXML -->
+    </test> <!-- RegressionTesting -->
+  </suite> <!-- MavenProject (0) -->
+</testng-results>

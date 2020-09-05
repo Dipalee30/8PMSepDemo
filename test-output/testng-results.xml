@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12479" started-at="2020-09-01T01:16:17Z" finished-at="2020-09-01T01:16:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12479" started-at="2020-09-01T01:16:17Z" finished-at="2020-09-01T01:16:29Z">
+      <class name="com.TestNGScripts.KeyEvents">
+        <test-method status="PASS" signature="Keyeventmethod()[pri:0, instance:com.TestNGScripts.KeyEvents@224edc67]" name="Keyeventmethod" duration-ms="12424" started-at="2020-09-01T01:16:17Z" finished-at="2020-09-01T01:16:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Keyeventmethod -->
+      </class> <!-- com.TestNGScripts.KeyEvents -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
